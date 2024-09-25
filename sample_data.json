@@ -1,0 +1,54 @@
+{
+    "company": {
+      "id": "COMP001",
+      "name": "TechCorp",
+      "founded": 1995,
+      "locations": [
+        {
+          "id": "LOC001",
+          "city": "San Francisco",
+          "employees": 500
+        },
+        {
+          "id": "LOC002",
+          "city": "New York",
+          "employees": 300
+        }
+      ],
+      "departments": {
+        "id": "DEPT001",
+        "engineering": {
+          "id": "ENG001",
+          "head": "Jane Doe",
+          "budget": 1000000
+        },
+        "marketing": {
+          "id": "MKT001",
+          "head": "John Smith",
+          "budget": 500000
+        }
+      },
+      "products": [
+        {
+          "id": "PROD001",
+          "name": "TechWidget",
+          "price": 99.99,
+          "features": [
+            {"id": "FEAT001", "name": "AI-powered"},
+            {"id": "FEAT002", "name": "Cloud-connected"},
+            {"id": "FEAT003", "name": "Energy-efficient"}
+          ]
+        },
+        {
+          "id": "PROD002",
+          "name": "DataAnalyzer",
+          "price": 199.99,
+          "features": [
+            {"id": "FEAT004", "name": "Real-time analysis"},
+            {"id": "FEAT005", "name": "Big data capable"},
+            {"id": "FEAT006", "name": "Machine learning"}
+          ]
+        }
+      ]
+    }
+  }
