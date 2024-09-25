@@ -12,7 +12,7 @@ This project provides a Python script that extracts relational data from JSON st
 
 ## Requirements
 
-To run this project, you need Python 3.x and the following packages:
+To run this project, you need Python 3.12 and the following packages:
 
 ```
 coverage==7.6.1
